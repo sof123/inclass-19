@@ -1,4 +1,4 @@
 {
-"netid": "sof1",
-"backend": "https://idkyo.herokuapp.com"
+     "netid": "sof1",
+   "backend": "http://backendsof1.herokuapp.com"
 }
